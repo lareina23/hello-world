@@ -1,2 +1,2 @@
 # hello-world
-New day. New computer. New course.
+New day. New computer. 
